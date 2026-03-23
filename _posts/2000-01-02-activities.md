@@ -7,23 +7,19 @@ iconclr: '#428bca'
 titleclr: '#428bca'
 ---
 
-<center><img src="https://github.com/mrathon/honolulu2025/blob/master/img/mrathon_new.png?raw=true" style="height:300px;"></center>
+<center><img src="img/Stellenbosch_logo.png" style="height:300px;"></center>
 
-<hr>
-<p style ="text-align: center; font-weight: bold; font-size:24px;"> <span style="color:#f26c22;">MRS</span> X <span style="color:#63c4ca;">MRathon</span>, organized in collaboration with the <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> MRS Hackathon </a>, is a great opportunity to sharpen your coding skills for taking your MRI research to the next level.</p>
-<hr>
+
 
 <br>
 <center><i class="fa fa-terminal fa-3x"></i></center>
 
-<p style ="text-align: center; font-weight: bold; font-size:24px;"> During the event, <span style="color:#f26c22;">MRS Hackathon</span> and <span style="color:#63c4ca;">MRathon</span> will have separate hackathon sprints. You are welcome to participate in both events and get inspired by projects from both communities!</p>
 
 <br>
 <center><i class="fa-solid fa-palette fa-3x"></i></center>
 
-<h3 style ="text-align: center;"> The theme for <span style="color:#63c4ca;">MRathon</span> will be creating next-generation publications for cutting-edge MRI research.</h3> 
+<h3 style ="text-align: center;"> The theme for <span style="color:#63c4ca;">MRathon</span> will be low-field MRI.</h3> 
 
-<p style ="text-align: center;"> For details regarding the <span style="color:#f26c22;">MRS Hackathon</span>, please see <a href="https://sites.google.com/view/mrshackathon2024/" style="color:blue;"> here </a>.</p>
 
 <hr>
  <h3>Speakers</h3>
