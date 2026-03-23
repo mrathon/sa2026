@@ -1,130 +1,130 @@
 friday:
-  - [cite_start]title: "Welcome and introduction "
-    [cite_start]time:  13h-13h30 [cite: 8]
-    [cite_start]place: Cape Town Convention Center [cite: 8]
-    image: welcome.png
-    [cite_start]text: Udunna A. and Stefan D. kick off the event! [cite: 8]
-  - [cite_start]title: "Social Activity "
-    [cite_start]time:  13h30-17h [cite: 8]
-    [cite_start]place: Cape Town Convention Center [cite: 8]
-    image: social_day1.png
-    [cite_start]text: Before the code, let's all unwind. [cite: 8]
+  - title: "Welcome and introduction"
+    time: "13h-13h30"
+    place: "Cape Town Convention Center"
+    image: "welcome.png"
+    text: "Udunna A. and Stefan D. kick off the event!"
+  - title: "Social Activity"
+    time: "13h30-17h"
+    place: "Cape Town Convention Center"
+    image: "social_day1.png"
+    text: "Before the code, let's all unwind."
 
 saturday:
-  - [cite_start]title: "Welcome "
-    [cite_start]time:  9h-9h30 [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: breakfast2.png
-    [cite_start]text: Need for Standardization of Open-Source Low-Field MRI with Stefan du Plessis. [cite: 8]
-  - [cite_start]title: "AM Seminar "
-    [cite_start]time:  9h30-10h [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: pitch2.png
-    [cite_start]text: Low-Field MRI Transmit and Receive Chains for Open-Source Scanners. [cite: 8]
-  - [cite_start]title: "Morning Coffee "
-    [cite_start]time:  10h-10h30 [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: breakfast2.png
-    [cite_start]text: Caffeinate yourself to stand your ground! [cite: 8]
-  - [cite_start]title: "Standardization Think Tank "
-    [cite_start]time:  10h30-11h30 [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: hack2.png
-    [cite_start]text: Panel Discussion with Nikola Stikov. [cite: 8]
-  - [cite_start]title: "Software Demo "
-    [cite_start]time:  11h30-11h45 [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: hack2.png
-    [cite_start]text: Signal Acquisition Software Demo. [cite: 8]
-  - [cite_start]title: "Field Mapping "
-    [cite_start]time:  11h45-12h [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: hack2.png
-    [cite_start]text: Field Mapping from Very-Low to Very-High. [cite: 8]
-  - [cite_start]title: "Lunch Break "
-    [cite_start]time:  12h-13h [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: lunch2.png
-    [cite_start]text: Time to recharge! [cite: 8]
-  - [cite_start]title: "Build Lab I "
-    [cite_start]time:  13h-14h [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: hack2.png
-    [cite_start]text: Assembling Preclinical Low-field Scanner. [cite: 8]
-  - [cite_start]title: "PM Seminars "
-    [cite_start]time:  14h-15h [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: pitch2.png
-    [cite_start]text: Signal acquisition challenges at low field. [cite: 8]
-  - [cite_start]title: "Afternoon Tea "
-    [cite_start]time:  15h-15h30 [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: breakfast2.png
-    [cite_start]text: Grab a bite, take a seat! [cite: 8]
-  - [cite_start]title: "PM Seminar "
-    [cite_start]time:  15h30-16h [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: pitch2.png
-    [cite_start]text: RF and Gradient coils for low field. [cite: 8]
-  - [cite_start]title: "Build Lab II "
-    [cite_start]time:  16h-17h [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: hack2.png
-    [cite_start]text: Acquisition Software Installation. [cite: 8]
-  - [cite_start]title: "Sponsored Dinner "
-    [cite_start]time:  17h-19h [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: lunch2.png
-    [cite_start]text: Network and dine! [cite: 8]
+  - title: "Welcome"
+    time: "9h-9h30"
+    place: "BRI, Stellenbosch University"
+    image: "breakfast2.png"
+    text: "Need for Standardization of Open-Source Low-Field MRI with Stefan du Plessis."
+  - title: "AM Seminar"
+    time: "9h30-10h"
+    place: "BRI, Stellenbosch University"
+    image: "pitch2.png"
+    text: "Low-Field MRI Transmit and Receive Chains for Open-Source Scanners."
+  - title: "Morning Coffee"
+    time: "10h-10h30"
+    place: "BRI, Stellenbosch University"
+    image: "breakfast2.png"
+    text: "Caffeinate yourself to stand your ground!"
+  - title: "Standardization Think Tank"
+    time: "10h30-11h30"
+    place: "BRI, Stellenbosch University"
+    image: "hack2.png"
+    text: "Panel Discussion with Nikola Stikov."
+  - title: "Software Demo"
+    time: "11h30-11h45"
+    place: "BRI, Stellenbosch University"
+    image: "hack2.png"
+    text: "Signal Acquisition Software Demo."
+  - title: "Field Mapping"
+    time: "11h45-12h"
+    place: "BRI, Stellenbosch University"
+    image: "hack2.png"
+    text: "Field Mapping from Very-Low to Very-High."
+  - title: "Lunch Break"
+    time: "12h-13h"
+    place: "BRI, Stellenbosch University"
+    image: "lunch2.png"
+    text: "Time to recharge!"
+  - title: "Build Lab I"
+    time: "13h-14h"
+    place: "BRI, Stellenbosch University"
+    image: "hack2.png"
+    text: "Assembling Preclinical Low-field Scanner."
+  - title: "PM Seminars"
+    time: "14h-15h"
+    place: "BRI, Stellenbosch University"
+    image: "pitch2.png"
+    text: "Signal acquisition challenges at low field."
+  - title: "Afternoon Tea"
+    time: "15h-15h30"
+    place: "BRI, Stellenbosch University"
+    image: "breakfast2.png"
+    text: "Grab a bite, take a seat!"
+  - title: "PM Seminar"
+    time: "15h30-16h"
+    place: "BRI, Stellenbosch University"
+    image: "pitch2.png"
+    text: "RF and Gradient coils for low field."
+  - title: "Build Lab II"
+    time: "16h-17h"
+    place: "BRI, Stellenbosch University"
+    image: "hack2.png"
+    text: "Acquisition Software Installation."
+  - title: "Sponsored Dinner"
+    time: "17h-19h"
+    place: "BRI, Stellenbosch University"
+    image: "lunch2.png"
+    text: "Network and dine!"
 
 sunday:
-  - [cite_start]title: "Welcome "
-    [cite_start]time:  9h-9h05 [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: welcome.png
-    [cite_start]text: Welcome by Udunna Anazodo. [cite: 8]
-  - [cite_start]title: "Evidence: Documentation the Right Way "
-    [cite_start]time:  9h05-9h30 [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: pitch2.png
-    [cite_start]text: Talk by Nikola Stikov. [cite: 8]
-  - [cite_start]title: "Build Lab III "
-    [cite_start]time:  9h30-10h15 [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: hack2.png
-    [cite_start]text: Spin your echo using MaRGE/Marcos/Python-code. [cite: 8]
-  - [cite_start]title: "Morning Coffee "
-    [cite_start]time:  10h15-10h30 [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: breakfast2.png
-    [cite_start]text: A quick coffee break. [cite: 8]
-  - [cite_start]title: "Build Lab IV "
-    [cite_start]time:  10h30-12h [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: hack2.png
-    [cite_start]text: Spin your echo and phantom Image acquisition. [cite: 8]
-  - [cite_start]title: "Lunch Break "
-    [cite_start]time:  12h-13h [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: lunch2.png
-    [cite_start]text: Time to recharge! [cite: 8]
-  - [cite_start]title: "Build Lab IV "
-    [cite_start]time:  13h-15h30 [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: hack2.png
-    [cite_start]text: More image acquisition using MaRGE/Marcos/Python-code. [cite: 8]
-  - [cite_start]title: "Afternoon Tea "
-    [cite_start]time:  15h30-16h [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: breakfast2.png
-    [cite_start]text: Afternoon break. [cite: 8]
-  - [cite_start]title: "Documentation "
-    [cite_start]time:  16h-17h [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: catch.png
-    [cite_start]text: Git Reporting of Build Lab exercises with Nikola Stikov and Hugo Albert Plante. [cite: 8]
-  - [cite_start]title: "Closing "
-    [cite_start]time:  17h-17h15 [cite: 8]
-    [cite_start]place: BRI, Stellenbosch University [cite: 8]
-    image: catch.png
-    [cite_start]text: Closing remarks by Stefan Du Plessis. [cite: 8]
+  - title: "Welcome"
+    time: "9h-9h05"
+    place: "BRI, Stellenbosch University"
+    image: "welcome.png"
+    text: "Welcome by Udunna Anazodo."
+  - title: "Evidence: Documentation the Right Way"
+    time: "9h05-9h30"
+    place: "BRI, Stellenbosch University"
+    image: "pitch2.png"
+    text: "Talk by Nikola Stikov."
+  - title: "Build Lab III"
+    time: "9h30-10h15"
+    place: "BRI, Stellenbosch University"
+    image: "hack2.png"
+    text: "Spin your echo using MaRGE/Marcos/Python-code."
+  - title: "Morning Coffee"
+    time: "10h15-10h30"
+    place: "BRI, Stellenbosch University"
+    image: "breakfast2.png"
+    text: "A quick coffee break."
+  - title: "Build Lab IV"
+    time: "10h30-12h"
+    place: "BRI, Stellenbosch University"
+    image: "hack2.png"
+    text: "Spin your echo and phantom Image acquisition."
+  - title: "Lunch Break"
+    time: "12h-13h"
+    place: "BRI, Stellenbosch University"
+    image: "lunch2.png"
+    text: "Time to recharge!"
+  - title: "Build Lab IV"
+    time: "13h-15h30"
+    place: "BRI, Stellenbosch University"
+    image: "hack2.png"
+    text: "More image acquisition using MaRGE/Marcos/Python-code."
+  - title: "Afternoon Tea"
+    time: "15h30-16h"
+    place: "BRI, Stellenbosch University"
+    image: "breakfast2.png"
+    text: "Afternoon break."
+  - title: "Documentation"
+    time: "16h-17h"
+    place: "BRI, Stellenbosch University"
+    image: "catch.png"
+    text: "Git Reporting of Build Lab exercises with Nikola Stikov and Hugo."
+  - title: "Closing"
+    time: "17h-17h15"
+    place: "BRI, Stellenbosch University"
+    image: "catch.png"
+    text: "Closing remarks by Stefan Du Plessis."
