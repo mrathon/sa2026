@@ -5,9 +5,6 @@ people:
     twitter: #
     linkedin: #
     researchgate: #
-  - name: "Hugo Albert Plante"
-    image:  Hugo.jpg
-    affiliation: École Polytechnique de Montréal
   - name: "Udunna Anazodo"
     image:  udunna.jpg
     affiliation: McGill University
@@ -18,16 +15,16 @@ people:
     twitter: https://twitter.com/Stikov
     linkedin: #
     researchgate: #
-speakers:
-  - name: "Maxim Zaitsev"
-    image:  mz.jpg
-    affiliation: University of Freiburg
-    twitter: #
-    linkedin: #
-    researchgate: #
-  - name: "Nikola Stikov"
-    image:  NikolaStikov.jpg
-    affiliation: École Polytechnique de Montréal
-  - name: "Mathieu Boudreau"
-    image:  MathieuBoudreau.jpg
-    affiliation: École Polytechnique de Montréal
+# speakers:
+  # - name: "Maxim Zaitsev"
+  #   image:  mz.jpg
+  #   affiliation: University of Freiburg
+  #   twitter: #
+  #   linkedin: #
+  #   researchgate: #
+  # - name: "Nikola Stikov"
+  #   image:  NikolaStikov.jpg
+  #   affiliation: École Polytechnique de Montréal
+  # - name: "Mathieu Boudreau"
+  #   image:  MathieuBoudreau.jpg
+  #   affiliation: École Polytechnique de Montréal
