@@ -15,6 +15,22 @@ people:
     twitter: https://twitter.com/Stikov
     linkedin: #
     researchgate: #
+    - name: "Stefan DuPlessis"
+    image:  StefanDuPlessis.jpg
+    affiliation: Stellenbosch University
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Haile Kassahun"
+    image:  HaileKasahun.jpg
+    affiliation: McGill University
+    researchgate: #
+  - name: "Marina Fernandez Garcia"
+    image:  MarinaFernandezGarcia.jpg
+    affiliation: Polytechnic University of Valencia
+    twitter: 
+    linkedin: #
+    researchgate: #
 # speakers:
   # - name: "Maxim Zaitsev"
   #   image:  mz.jpg
