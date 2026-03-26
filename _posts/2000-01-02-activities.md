@@ -18,7 +18,7 @@ titleclr: '#428bca'
 <br>
 <center><i class="fa-solid fa-palette fa-3x"></i></center>
 
-<h3 style ="text-align: center;"> The theme for <span style="color:#63c4ca;">MRathon</span> will be low-field MRI.</h3> 
+<h3 style ="text-align: center;"> The theme for <span style="color:#63c4ca;">MRathon</span> will be open-source low-field MRI.</h3> 
 
 
 <hr>
